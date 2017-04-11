@@ -1,0 +1,9 @@
+Lenguaje: Python
+Problema:Santa Claus
+Alumno:Arizmendi Antonio
+
+En el presente trabajo se intenta dar solucion a el problema de Santa Claus
+Para ello se declaran hilos, uno para Santa Claus, otros 9 para los renos, y un numero indefinido mas para los elfos.
+Asi mismo, se declaran mutex y semaforos, los primeros para proteger los segmentos de codigo al momento de ser usados, y los segundos para hacer señalizaciones entre los mismos.
+A pesar de que casi se consigue un buen funcionamiento del programa, no se consigue hacer que los renos regresen con santa claus de hacer las entregas, lo cual si no me equivoco, se debe a un caso de inanicion que no me fue posible solucionar.
+Hago entrega de lo que hice, para evitar perder la entrega de la tarea 3.
